@@ -1,3 +1,4 @@
+#libraries are imported to ensure proper reading of the various file formats
 import pandas as pd
 import datetime as dt
 import uuid
